@@ -18,7 +18,7 @@ const Courses = () => {
           <img src='/Images/College/current.jpg' alt=''  class='courses-img'/>
         </div>
         <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
-          <p>Diploma in Ophthalmic Assistant (DOA)</p>
+          <h3>Diploma in Ophthalmic Assistant (DOA)</h3>
           <p>A 2-year recognized diploma program designed to train students in eye care, vision testing, prescription of glasses, basic ophthalmic procedures, and assisting in surgeries.</p>
           <p>The course combines classroom learning, demo lab practice, and hospital-based clinical training at Renuka Multi-Speciality Hospital (NABH Accredited).</p>
         </div>
