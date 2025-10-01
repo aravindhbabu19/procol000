@@ -1,0 +1,520 @@
+*{
+  box-sizing: border-box;
+ }
+ body,html{
+  margin: 0;
+  width: 100%;
+  overflow-x: clip;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+ }
+.nav1-color{
+   color: #000000;
+ }
+ .nav1-color:hover{
+   color: rgb(255, 166, 0);
+}
+.navi-button{
+    background-color: #000000;
+    color: #f9f9f9;
+    border-radius: 10px;
+}
+.navi-h{
+    width: 100%;
+}
+.home-div{
+    background-image: url('./Background/medi4.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 90px;
+    background-position: center;
+}
+.home-para{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.home-para4{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    text-align: left;
+    width: 90%;
+    font-size: 20px;
+}
+.home-para2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    text-align: center;
+    width: 100%;
+}
+.home-btn1{
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: solid 1px gray;
+}
+.home-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    width: 100%;
+    font-size: 62px;
+    color: rgb(0, 0, 0);
+}
+.home-l{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.home-l1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.home-l2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.home-button{
+    background-color: aquamarine;
+    border: solid 1px aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.home-button2{
+    background-color: aquamarine;
+    border: solid 1px aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.home-div1{
+    background-color: rgb(237, 236, 236);
+}
+.home-img{
+   text-align: center;
+   
+}
+.home-para1{
+   text-align: center;
+}
+.home-head1{
+ text-align: center;
+ width: 100%;;
+ color: #f9f9f9;
+}
+.home-head5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.home-para5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.home-image{
+    width: 100%;
+}
+.home-button1{
+    background-color: aquamarine;
+    border: solid 1px aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.home-div2{
+    background-image: url('./Background/medi1.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.home-head3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+.home-col1{
+    height: 100%;
+}
+.home-para3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer-para{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer-img{
+    border-radius: 100px;
+}
+.footer-col{
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer-hr{
+    width: 77%;
+}
+.footer-hr1{
+    width: 85%;
+}
+.footer-footer{
+    background-image: url('./Background/background7.jpg');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-row{
+    color: #ffffff;
+}
+.patient-img {
+  width: 40%;
+  height: 40%;
+  border-radius: 10px;
+  text-align: center;
+}
+.testimonial-wrapper {
+  overflow: hidden;
+  background: #f9f9f9;
+  height: 100%;
+  width: 100%;
+}
+
+.testimonial-track {
+  display: flex;
+  gap: 40px;
+  animation: scroll 10s linear;
+  height: 100%;
+  width: 100%;
+}
+.testimonial-wrapper1 {
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.testimonial-track1 {
+  display: flex;
+  gap: 40px;
+  animation: scroll 10s linear;
+}
+.testimonial {
+  min-width: 250px;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  height: 100px;
+}
+
+.testimonial1 {
+  min-width: 250px;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  height: 200px;
+}
+.testimonial2 {
+  min-width: 1267px;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: left;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  height: 200px;
+}
+.testimonial img {
+  width: 60px;
+  height: 60px;
+}
+
+/* @keyframes scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+} */
+.para{
+    width: 100%;
+}
+.contact-div{
+    background-image: url('./Background/background3.jpg');
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.contact-icon{
+    font-size: 30px;
+}
+.contact-h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact-h12{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:28px;
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.contact-icon1{
+    font-size: 25px;
+}
+.contact-form {
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-label{
+    font-weight: bold;
+}
+.contact-map{
+    height: 380px;
+    width: 100%;
+}
+.para{
+    width: 100%;
+}
+.para1{
+    font-size: 20px;
+}
+.courses-div{
+    background-image: url('./Background/background2.jpg');
+    background-position: bottom;
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.courses-row{
+  min-width: 100%;
+  background: rgb(255, 255, 255);
+  padding: 15px;
+  border-radius: 12px;
+  text-align: left;
+  height: 70%;
+}
+.courses-div1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.courses-img{
+    height: 80%;
+    width: 80%;
+    border-radius: 10px;
+}
+.courses-img1{
+    border-radius: 10px;
+    
+}
+.courses-h{
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+}
+.courses-button{
+    background-color: rgb(255, 0, 0);
+    border: solid 1px rgb(255, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: #f9f9f9;
+}
+.courses-h1{
+    width: 100%;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+}
+.faculty-div{
+    background-image: url('./Background/background8.jpg');
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.courses-h2{
+    width: 100%;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.patient-img1 {
+  width: 100%;
+  height: 50%;
+  border-radius: 10px;
+}
+.patient-img101 {
+  width: 100%;
+  height: 59%;
+  border-radius: 10px;
+}
+.testimonial3{
+  min-width: 100%;
+  background: white;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  height: 100%;
+}
+.faculty-h{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+.faculty-h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.faculty-found{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 22px;
+}
+.faculty-found1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.faculty-found2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    
+}
+.faculty-h3{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.gallery-div{
+    background-image: url('./Background/background9.jpg');
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.gallery-button{
+    background-color: rgb(243, 135, 192);
+    border: solid 1px rgb(243, 135, 192);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: #f9f9f9;
+}
+.gallery-para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.gallery-head{
+    font-family: 'Times New Roman', Times, serif;
+     text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.gallery-img{
+    border-radius: 40px;
+    width: 100%;
+}
+.testimonial4{
+  min-width: 100%;
+  background: white;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  height: 100%;
+}
+.about-div{
+    background-image: url('./Background/background10.jpg');
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    padding: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.about-h{
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.about-h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: center;
+}
+.about-p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.about-p12{
+    font-family: 'Times New Roman', Times, serif;
+}
+.about-p123{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.about-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.about-head1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.about-p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.about-u{
+    text-decoration: underline;
+    text-underline-position: under;
+    color: rgb(0, 0, 0);
+}
+.about-img{
+    width: 100%;
+}
+.about-img1{
+    width: 100%;
+}
+.about-button{
+    background-color: rgb(255, 162, 0);
+    border: solid 1px rgb(255, 162, 0);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.form-control{
+    border: solid 1px orange;
+}
+.form-label1{
+    border: solid 1px orange;
+}
+
