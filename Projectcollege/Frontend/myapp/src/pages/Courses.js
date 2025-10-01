@@ -14,10 +14,10 @@ const Courses = () => {
         <h1 class='about-h1 d-flex justify-content-center mt-5'>Current Courses</h1>
       </div>
       <div class='row courses-row mt-5'>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 d-flex justify-content-center'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
           <img src='/Images/College/current.jpg' alt=''  class='courses-img'/>
         </div>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 mt-3'>
           <h3>Diploma in Ophthalmic Assistant (DOA)</h3>
           <p>A 2-year recognized diploma program designed to train students in eye care, vision testing, prescription of glasses, basic ophthalmic procedures, and assisting in surgeries.</p>
           <p>The course combines classroom learning, demo lab practice, and hospital-based clinical training at Renuka Multi-Speciality Hospital (NABH Accredited).</p>
@@ -27,10 +27,10 @@ const Courses = () => {
         <h1 class='about-h1 d-flex justify-content-center mt-5'>Examination Pattern (2-Year Diploma Course)</h1>
       </div>
       <div class='row courses-row mt-5'>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 d-flex justify-content-center'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
           <img src='/Images/College/pattern.jpg' alt=''  class='courses-img'/>
         </div>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 mt-3'>
           <p class=''>At Mounika Paramedical College, the Diploma in Ophthalmic Assistant (DOA) follows a structured examination system that ensures students are well-prepared both academically and practically.</p>
           <h4 class='about-p12'>1. Exam Schedule</h4>
           <p class=''>Examination dates and application deadlines are announced by the Government.
@@ -80,10 +80,10 @@ const Courses = () => {
         <h1 class='about-h1 d-flex justify-content-center mt-5'>Future Course Plans</h1>
       </div>
       <div class='row courses-row mt-5'>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 d-flex justify-content-center'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
           <img src='/Images/College/future.jpg' alt=''  class='courses-img'/>
         </div>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 mt-3'>
           <p class=''>To expand opportunities in eye care and allied health sciences, Mounika Paramedical College is planning to introduce:</p>
           <p class=''>B.Sc. Optometry – Undergraduate program for advanced optometry training.</p>
           <p class=''>M.Sc. Optometry – Postgraduate program for specialization and research in vision sciences.</p>
@@ -94,10 +94,10 @@ const Courses = () => {
         <h1 class='about-h1 d-flex justify-content-center mt-5'>Career Opportunities</h1>
       </div>
       <div class='row courses-row mt-5'>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 d-flex justify-content-center'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
           <img src='/Images/College/carreer.jpg' alt='' height={235} width={235}  class='courses-img1'/>
         </div>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 mt-3'>
           <p class=''>Students graduating from Mounika Paramedical College will have diverse career pathways, including:</p>
           <p>
           Work in Hospitals & Clinics – as OPD/OT Assistants, Technicians, or Hospital Managers.
@@ -113,10 +113,10 @@ const Courses = () => {
         <h1 class='about-h1 d-flex justify-content-center mt-5'>Associated With</h1>
       </div>
       <div class='row courses-row mt-5'>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 d-flex justify-content-center'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
           <img src='/Images/College/logo.jpg' alt='' height={200} width={200}  class='courses-img1'/>
         </div>
-        <div class='col-12 col-sm-12 col-md-4 col-lg-6 mt-3'>
+        <div class='col-12 col-sm-12 col-md-6 col-lg-6 mt-3'>
          <p>Renuka Multi-Speciality Hospital (Kurnool) – NABH Accredited, offering real-world hospital training in ophthalmology, orthopedics, and emergency care.</p>
          <p>Expert Faculty & Mentors – including Dr. B. Rajeswari Devi (Principal) and<br></br> Dr. J. Raghunatha Reddy (Correspondent).</p>
          <p>Community Outreach Programs – building leadership, teamwork, and patient-care skills.</p>
