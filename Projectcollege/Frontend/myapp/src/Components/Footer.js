@@ -25,16 +25,16 @@ const Footer = () => {
             </Link>
             <p class='w-100 footer-para mt-3'>Mounika Paramedical College, Kurnool, offers diploma and certificate courses in ophthalmic assistant and allied health sciences. We provide students with modern classrooms, 3D demo models, digital teaching boards, and a well-equipped library. Through hospital-based training at Renuka Multi-Speciality Hospital, students learn directly from patient care, optical practice, and surgical assistance. We are committed to building the next generation of healthcare professionals who combine skills, compassion, and innovation.</p>
             <Link to='https://www.instagram.com/mounika_paramedical_college?igsh=cGk2bmpveHJqbGNt' >
-            <FaInstagram class='text-decoration-none text-white '/>
+            <FaInstagram class='text-decoration-none text-white icon12'/>
             </Link>
             <Link to='https://youtube.com/@mounikaparamedicalcollege?si=sDU2iq9ons-Zu-gH'>
-            <FaYoutube class='ms-2 text-white'/>
+            <FaYoutube class='ms-2 text-white icon12'/>
             </Link>
             <Link to='https://wa.me/qr/6KKP24KZIQEKE1'>
-            <FaWhatsapp class='ms-2 text-white'/>
+            <FaWhatsapp class='ms-2 text-white icon12'/>
             </Link>
             <Link to='https://share.google/Tzn3BUEn5dk2Rdaus'>
-            <FaGoogle class='ms-2 text-white'/>
+            <FaGoogle class='ms-2 text-white icon12'/>
             </Link>
           </div>
           <div class='col-12 col-sm-12 col-md-4 col-lg-4 footer-col mt-3'>
